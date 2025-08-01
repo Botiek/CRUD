@@ -43,7 +43,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone <repository-url>
+git clone [[<repository-url>](https://github.com/Botiek/CRUD)]
 cd brands-crud-app
 
 # Запустить с Docker Compose
